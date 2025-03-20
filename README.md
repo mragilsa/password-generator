@@ -5,7 +5,7 @@ Random Password Generator is a simple web application that generates strong, ran
 ---
 
 ## Quick Access  
-- Live Demo: https://random-password-mragilsa.vercel.app/  
+- Live Demo: https://password-generator-mragilsa.vercel.app/
 
 ---
 
