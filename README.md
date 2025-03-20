@@ -39,11 +39,11 @@ Random Password Generator is a simple web application that generates strong, ran
 
 1. Clone the repository:
    ``` bash
-   git clone https://github.com/mragilsa/random-password-generator.git  
+   git clone https://github.com/mragilsa/password-generator.git  
 
 3. Navigate to the project folder:
    ``` bash
-   cd random-password-generator  
+   cd password-generator  
 
 5. Open the index.html file in your browser, or use a live server extension if you're using VS Code.  
 
